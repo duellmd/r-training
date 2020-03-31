@@ -1,4 +1,4 @@
-###### Lesson 1: Load data and make a plot
+###### Lesson 1: Load data and calculate some summary statistics
 #### Amanda Pinkston
 #### March 31, 2020
 
@@ -56,7 +56,9 @@ nrow(tab2)
 #### Exercise:
 #1. Download data from acled that contains 2-3 countries and 5 years
 #2. Create a folder for the exercise. Put the data in the folder and create a new R script.
-#3. Load the packages and data
+#3. Set your working directory, and load the packages and data
 #4. Summarize events and fatalities by country and year
 #5. Summarize events and fatalities by event_type
 #6. Summarize events and fatalities by country and event_type
+#7. Think of another summary statistic you want to calculate--
+###########we will tackle the problem in the next class or a future lesson
