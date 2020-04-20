@@ -101,6 +101,12 @@ ap <- ap %>%
 
 
 
+# Exercise ----------------------------------------------------------------
+
+## Read in the CSV named "drc_modified", separate out the Actors field into four columns for actor1, actor2, assoc actor 1, and assoc actor 2.
+## Separate the event_date field into three new columns: year, month, and day
+## Combine month and year into a new column, called "month_year"
+## If you wanted to group this data into quarters, how would you do it? Try to add a new column with quarters
 
 
 
