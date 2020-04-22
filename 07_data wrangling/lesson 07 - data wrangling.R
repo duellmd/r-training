@@ -1,13 +1,13 @@
 ###################################
 ## Data Wrangling                ## 
 ## Gray Barrett                  ##
-## April 20, 2020                ##
+## April 22, 2020                ##
 ###################################
 
 #### This week we'll work on changing the structure of our dataset, as well as making it more tidy.
 
 # As usual, set your working directory and load necessary package
-setwd("~/Downloads")
+setwd("~/Downloads/CSO/r-training-master/07_data wrangling")
 library(tidyverse)
 
 
@@ -28,7 +28,7 @@ head(df)
 
 # SEPARATE ----------------------------------------------------------------
 
-read_csv("df1.csv")
+df1 <- read_csv("df1.csv")
 head(df1)
 # In this case, the data is smashed together -- country and event date are combined into one field. Very annoying. Let's take a look to see if they are joined in an easily-separable way.
 
@@ -49,7 +49,7 @@ View(df1)
 # UNITE -------------------------------------------------------------------
 
 # Unite does the opposite, taking constituent columns and putting them together 
-read_csv("df2.csv")
+df2 <- read_csv("df2.csv")
 
 # In this case, instead of the country field being in one field, it's been separated into four:
 View(df2)
