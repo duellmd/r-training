@@ -1,0 +1,34 @@
+OBJECTID_1,Shape,admin0Name_es,admin0Pcode,admin1Name_es,admin1Pcode,admin1,PopEst,Area_km2,PopDen_pkm2,total_events,protests,violent_events,fatalities
+1,Polygon,Colombia,CO,Amazonas,CO91,Amazonas,76501,109147.1412,0.700898,NA,NA,NA,NA
+2,Polygon,Colombia,CO,Antioquia,CO05,Antioquia,6469841,62954.84947,102.769541,220,56,164,125
+3,Polygon,Colombia,CO,Arauca,CO81,Arauca,264797,23732.1307,11.157742,67,0,67,28
+4,Polygon,Colombia,CO,Atlántico,CO08,Atlantico,2480059,3326.818023,745.4748,120,80,40,11
+5,Polygon,Colombia,CO,Bogotá D.C.,CO11,Bogota D.C.,7840980,1634.77782,4796.358198,NA,NA,NA,NA
+6,Polygon,Colombia,CO,Bolívar,CO13,Bolivar,2096212,26626.30365,78.727112,147,102,45,28
+7,Polygon,Colombia,CO,Boyacá,CO15,Boyaca,1295448,23082.70882,56.122009,10,3,7,5
+8,Polygon,Colombia,CO,Caldas,CO17,Caldas,990939,7405.367602,133.813614,19,15,4,6
+9,Polygon,Colombia,CO,Caquetá,CO18,Caqueta,493089,89882.94421,5.485902,26,8,18,46
+10,Polygon,Colombia,CO,Casanare,CO85,Casanare,355764,44379.70258,8.016367,3,0,3,2
+11,Polygon,Colombia,CO,Cauca,CO19,Cauca,1388301,30543.67098,45.452984,203,25,178,162
+12,Polygon,Colombia,CO,Cesar,CO20,Cesar,1034336,22371.70871,46.234108,23,8,15,11
+13,Polygon,Colombia,CO,Chocó,CO27,Choco,427322,47775.7864,8.944322,64,4,60,33
+14,Polygon,Colombia,CO,Córdoba,CO23,Cordoba,1668279,25132.69653,66.37883,46,14,32,31
+15,Polygon,Colombia,CO,Cundinamarca,CO25,Cundinamarca,2780735,22358.84745,124.368441,11,3,8,1
+16,Polygon,Colombia,CO,Guainía,CO94,Guainia,39997,71025.47702,0.563136,NA,NA,NA,NA
+17,Polygon,Colombia,CO,Guaviare,CO95,Guaviare,108294,55428.58508,1.953757,5,2,3,4
+18,Polygon,Colombia,CO,Huila,CO41,Huila,1137016,18703.09319,60.792939,21,7,14,12
+19,Polygon,Colombia,CO,La Guajira,CO44,La Guajira,898448,20656.35191,43.494999,39,20,19,7
+20,Polygon,Colombia,CO,Magdalena,CO47,Magdalena,1047660,23224.06078,45.110974,25,13,12,5
+21,Polygon,Colombia,CO,Meta,CO50,Meta,965054,85373.88504,11.303855,32,14,18,18
+22,Polygon,Colombia,CO,Nariño,CO52,Narino,1722820,31415.73037,54.839406,74,11,63,61
+23,Polygon,Colombia,CO,Norte de Santander,CO54,Norte de Santander,1375671,21937.14953,62.709651,NA,NA,NA,NA
+24,Polygon,Colombia,CO,Putumayo,CO86,Putumayo,352640,25888.92577,13.621268,31,10,21,20
+25,Polygon,Colombia,CO,Quindío,CO63,Quindio,575241,1933.736807,297.476367,11,7,4,3
+26,Polygon,Colombia,CO,Risaralda,CO66,Risaralda,962609,3538.244738,272.058343,36,27,9,1
+27,Polygon,Colombia,CO,San Andrés y Providencia,CO88,San Andres y Providencia,64253,48.857041,1315.122621,NA,NA,NA,NA
+28,Polygon,Colombia,CO,Santander,CO68,Santander,2071119,30588.31568,67.709482,93,68,25,8
+29,Polygon,Colombia,CO,Sucre,CO70,Sucre,831802,10720.72235,77.588242,17,12,5,5
+30,Polygon,Colombia,CO,Tolima,CO73,Tolima,1434833,23972.69454,59.852805,50,44,6,3
+31,Polygon,Colombia,CO,Valle del Cauca,CO76,Valle del Cauca,4639659,21177.62607,219.083054,5,0,5,12
+32,Polygon,Colombia,CO,Vaupés,CO97,Vaupes,44325,53188.80763,0.833352,1,0,1,1
+33,Polygon,Colombia,CO,Vichada,CO99,Vichada,72487,99346.84406,0.729636,NA,NA,NA,NA
